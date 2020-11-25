@@ -1,7 +1,16 @@
 ---
 title: "Metodos de clusterización para features de alto nivel de Spotify"
-output: "clustering_spotify"
+output:
+  html_document: default
+
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(warning = FALSE)
+
+```
+
 
 ```{r} 
 #Chequea e instala paquetes
@@ -33,6 +42,8 @@ pacman::p_load(readxl, ggplot2, RColorBrewer, ggbiplot, GGally,dendextend, corrp
  library(pracma)  # herramientas estadísticas
  library(factoextra) # herramientas estadísticas
  library(NbClust) # tests de cantidad de clusters optimos 
+ library(ape)
+
 ```
 
 ```{r}
@@ -41,7 +52,7 @@ pacman::p_load(readxl, ggplot2, RColorBrewer, ggbiplot, GGally,dendextend, corrp
 ######## Carga de datos ########### 
 spotify_completo = read_xlsx('spotify.xlsx')
 n=round(0.7* nrow(spotify_completo)) 
-set.seed(dni);
+set.seed(36761117);
 cuales= sample(1:nrow(spotify_completo), size=n,  replace=FALSE)
 spotify = spotify_completo[cuales,]
 
@@ -202,7 +213,7 @@ fviz_nbclust(spotify_num, kmeans, nstart = 25,  method = "gap_stat", nboot = 50)
 ```
 
 ```{r ########## KMEANS #######}
-set.seed(dni)
+set.seed(3676117)
 CL  = kmeans(spotify_num,4,nstart=25,iter.max = 100)
 spotify_kmeans = spotify
 spotify_kmeans$kmeans = as.factor(CL$cluster)
@@ -299,7 +310,7 @@ rect.hclust(hc_ward, k=4, border="red")
 
 #Dendograma circular
 spotify$genre_n = as.numeric(as.factor(spotify$genre))
-plot(as.phylo(hc_ward), type = "fan", tip.color = as.integer(spotify$clusters),
+plot(ape::as.phylo(hc_ward), type = "fan", tip.color = as.integer(spotify$clusters),
      label.offset = 1, cex = 0.7)
 ```
 
