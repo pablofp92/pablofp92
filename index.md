@@ -14,7 +14,7 @@ Soy un geologo devenido en aprendiz de ciencias de datos / I'm a geologist tryin
 ## Some R notebooks: 
 
 ### TMDB 5000 Movie Dataset. Lgbm regression model to predict popularity relying on pre-release features (R)
-* [Movies lgbm regression model](movies_lgbm/movies.html)
+* [Movies lgbm regression model](movies_lgbm/Movies.html)
 
 ### Prostate cancer clasified models: SVM and Logistic regression (R)
 * [Prostate cancer clasification models](/prostate/prostate_cancer_models.md)
