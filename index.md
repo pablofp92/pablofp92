@@ -1,12 +1,17 @@
 ## Welcome to Pablo's portfolio
 
-Soy un geologo devenido en aprendiz de ciencias de datos / I'm a geologist trying to be data scientist! 
+Soy un geologo devenido en aprendiz de ciencias de datos / I'm a geologist trying to be data scientist! / Location: Buenos Aires, Argentina. 
+
+![Bowie and myself](/polci.png)
+
+[linkedIn](https://www.linkedin.com/in/pablofprz/)
+:e-mail: pablofp92@gmail.com 
 
 
 ## Some R notebooks: 
 
 ### TMDB 5000 Movie Dataset. Lgbm regression model to predict popularity relying on pre-release features (R)
-* [Movies lgbm regression model](movies/movies.html)
+* [Movies lgbm regression model](movies_lgbm/movies.html)
 
 ### Prostate cancer clasified models: SVM and Logistic regression (R)
 * [Prostate cancer clasification models](https://github.com/pablofp92/main/prostate/prostate_cancer_models.md)
@@ -18,3 +23,6 @@ Soy un geologo devenido en aprendiz de ciencias de datos / I'm a geologist tryin
 ## Some python code:
 
 * Coming soon I swear! 
+
+![workinprgress](/under-construction-2408062_1280-862x307.png
+)
