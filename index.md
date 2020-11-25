@@ -4,11 +4,7 @@ Soy un geologo devenido en aprendiz de ciencias de datos / I'm a geologist tryin
 
 <img src="https://raw.githubusercontent.com/pablofp92/pablofp92/main/polci.png" width="200" height="200" />
 
-:blue_square: [linkedIn](https://www.linkedin.com/in/pablofprz/)
-
-:argentina: Buenos Aires, Argentina.  
-
-:e-mail: __pablofp92@gmail.com__ 
+:argentina: Buenos Aires, Argentina.  | :blue_book: [linkedIn](https://www.linkedin.com/in/pablofprz/) |  :mailbox: __pablofp92@gmail.com__ 
 
 
 ## Some R notebooks: 
