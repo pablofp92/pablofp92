@@ -27,4 +27,4 @@ Soy un geologo devenido en aprendiz de ciencias de datos / I'm a geologist tryin
 
 * Coming soon, I swear! 
 
-<img src="https://raw.githubusercontent.com/pablofp92/pablofp92/main/under-construction-2408062_1280-862x307.png" width="200" height="200" />
+<img src="https://raw.githubusercontent.com/pablofp92/pablofp92/main/under-construction-2408062_1280-862x307.png" height="200" />
