@@ -2,7 +2,7 @@
 
 Soy un geologo devenido en aprendiz de ciencias de datos / I'm a geologist trying to be data scientist!  
 
-![Bowie and myself](/polci.png){:height="50%" width="50%"}
+<img src="https://raw.githubusercontent.com/pablofp92/pablofp92/main/polci.png" width="200" height="200" />
 
 :blue_square: [linkedIn](https://www.linkedin.com/in/pablofprz/)
 
@@ -27,4 +27,4 @@ Soy un geologo devenido en aprendiz de ciencias de datos / I'm a geologist tryin
 
 * Coming soon, I swear! 
 
-![workinprgress](/under-construction-2408062_1280-862x307.png){:height="50%" width="50%"}
+<img src="https://raw.githubusercontent.com/pablofp92/pablofp92/main/under-construction-2408062_1280-862x307.png" width="200" height="200" />
