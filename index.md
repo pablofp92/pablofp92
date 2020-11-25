@@ -2,13 +2,13 @@
 
 Soy un geologo devenido en aprendiz de ciencias de datos / I'm a geologist trying to be data scientist!  
 
-![Bowie and myself](/polci.png){width=40% }
+![Bowie and myself](/polci.png){:height="50%" width="50%"}
 
 :blue_square: [linkedIn](https://www.linkedin.com/in/pablofprz/)
 
 :argentina: Buenos Aires, Argentina.  
 
-:e-mail: pablofp92@gmail.com 
+:e-mail: __pablofp92@gmail.com__ 
 
 
 ## Some R notebooks: 
@@ -27,5 +27,4 @@ Soy un geologo devenido en aprendiz de ciencias de datos / I'm a geologist tryin
 
 * Coming soon, I swear! 
 
-![workinprgress](/under-construction-2408062_1280-862x307.png
-){width=30% }
+![workinprgress](/under-construction-2408062_1280-862x307.png){:height="50%" width="50%"}
