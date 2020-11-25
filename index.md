@@ -6,13 +6,13 @@ Soy un geologo devenido en aprendiz de ciencias de datos / I'm a geologist tryin
 ## Some R notebooks: 
 
 ### TMDB 5000 Movie Dataset. Lgbm regression model to predict popularity relying on pre-release features (R)
-* [Movies lgbm regression model](https://github.com/pablofp92/pablofp92/main/movies_lgbm/Movies.Rmd)
+* [Movies lgbm regression model](movies/movies.html)
 
 ### Prostate cancer clasified models: SVM and Logistic regression (R)
 * [Prostate cancer clasification models](https://github.com/pablofp92/main/prostate/prostate_cancer_models.md)
 
 ### Spotify unclasified models: k-means and hierarchical clustering (R) 
-* [Spotify clustering](https://github.com/pablofp92/pablofp92/main/clustering_spotify/clustering_spotify.Rmd)
+* [Spotify clustering](/clustering_spotify/clustering_spotify.html)
 
 
 ## Some python code:
