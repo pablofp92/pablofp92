@@ -21,4 +21,4 @@ _Soy un geologo devenido en aprendiz de ciencias de datos / I'm a geologist tryi
 
 ## Some python code:
 
-*  [Dashboard de incendios de la República Argentina](/clustering_spotify/clustering_spotify.html)
+*  [Dashboard de incendios de la República Argentina](/c)
