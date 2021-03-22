@@ -2,7 +2,7 @@
 
 _Soy un geologo devenido en aprendiz de ciencias de datos / I'm a geologist trying to be data scientist! _ 
 
-<img src="https://raw.githubusercontent.com/pablofp92/pablofp92/main/polci.png" width="200" height="200" /> 
+<img src="https://raw.githubusercontent.com/pablofp92/pablofp92/main/polci.png" width="150" height="150" /> 
 
  :argentina: Buenos Aires, Argentina.   :blue_book: [linkedIn](https://www.linkedin.com/in/pablofprz/)   :mailbox: __pablofp92@gmail.com__ 
 
@@ -21,6 +21,4 @@ _Soy un geologo devenido en aprendiz de ciencias de datos / I'm a geologist tryi
 
 ## Some python code:
 
-* Coming soon, I swear! 
-
-<img src="https://raw.githubusercontent.com/pablofp92/pablofp92/main/under-construction-2408062_1280-862x307.png" height="200" />
+*  [Dashboard de incendios de la República Argentina](/clustering_spotify/clustering_spotify.html)
