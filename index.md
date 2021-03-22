@@ -26,4 +26,7 @@ _Soy un geologo devenido en aprendiz de ciencias de datos / I'm a geologist tryi
 
 ## Some python code:
 
-*  [Dashboard de incendios de la República Argentina](/c)
+### Dash (Python 3)
+* [Dashboard de incendios de la República Argentina](/incendios)
+* Puede visitarse en (https://dash-incendios.herokuapp.com/ ) no obstante Dash supera la cuota de memoria de heroku, por lo que puede no cargar correctamente. Para correr localmente  descomentar las lineas 12 y 13 y comentar la 56 de app.py. 
+
