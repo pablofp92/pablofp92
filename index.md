@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 ## Welcome to Pablo's portfolio
 
 _Soy un geologo devenido en aprendiz de ciencias de datos / I'm a geologist trying to be data scientist! _ 
